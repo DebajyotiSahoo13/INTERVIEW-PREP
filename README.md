@@ -1,2 +1,2 @@
-# DSA-Python
+# DSA
 For Interview Preparation 
